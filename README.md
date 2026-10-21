@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=ashutoshh-29&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--
 **Ashutoshh-29/Ashutoshh-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
