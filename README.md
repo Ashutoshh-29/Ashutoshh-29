@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Building+a+Deepfake+Voice+Detector;Learning+PyTorch+%26+FastAPI" alt="Typing animation" />
+  <img src="assets/profile.gif" width="260" />
 </p>
 
 <p align="center">
