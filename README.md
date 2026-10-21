@@ -2,13 +2,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Building+a+Deepfake+Voice+Detector;Learning+PyTorch+%26+FastAPI" alt="Typing animation" />
-  <img src="assets/profile.gif" width="260" />
+</p>
+<p align="center">
+  <img src="assets/profile.png" width="260" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutoshh-29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ashutoshh-29?style=flat&logo=github" alt="Followers" />
-</p>
 
 ## 🚀 About me
 - 🔭 Working on a **Deepfake Voice Detection** project
