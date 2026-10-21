@@ -1,20 +1,23 @@
-## Hi there 👋
-![Profile views](https://komarev.com/ghpvc/?username=ashutoshh-29&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="center">Hi, I'm Ashutosh 👋</h1>
 
-<!--
-**Ashutoshh-29/Ashutoshh-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Building+a+Deepfake+Voice+Detector;Learning+PyTorch+%26+FastAPI" alt="Typing animation" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashutoshh-29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ashutoshh-29?style=flat&logo=github" alt="Followers" />
+</p>
 
-- 🔭 I'm currently working on a Deepfake Voice Detection project
-- 🌱 I'm currently learning PyTorch and FastAPI
-- 👯 I'm looking to collaborate on AI/ML and audio-processing projects
-- 🤔 I'm looking for help with improving model accuracy and deploying models
+## 🚀 About me
+- 🔭 Working on a **Deepfake Voice Detection** project
+- 🌱 Learning **PyTorch** and **FastAPI**
+- 👯 Looking to collaborate on **AI/ML** and **audio-processing** projects
+- 🤔 Looking for help with improving model accuracy and deploying models
 - 💬 Ask me about Python, Pandas, NumPy, and data visualization
-- 📫 How to reach me: your-email@example.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started using GitHub in 2026 and I'm just getting going
--->
+
+## 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -23,3 +26,18 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+## 📁 Featured projects
+| Project | Description |
+|---|---|
+| [deepfake-voice-detection](https://github.com/ashutoshh-29/deepfake-voice-detection) | Detecting AI-generated voices using PyTorch (in progress) |
+| [pydantic-practice](https://github.com/ashutoshh-29/pydantic-practice) | Pydantic models, type coercion, email validation |
+
+## 📊 GitHub stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshh-29&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshh-29&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+## 📫 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-ashutoshh--29-181717?style=flat&logo=github)](https://github.com/ashutoshh-29)
