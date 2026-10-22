@@ -26,17 +26,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-## 📁 Featured projects
-| Project | Description |
-|---|---|
-| [deepfake-voice-detection](https://github.com/ashutoshh-29/deepfake-voice-detection) | Detecting AI-generated voices using PyTorch (in progress) |
-| [pydantic-practice](https://github.com/ashutoshh-29/pydantic-practice) | Pydantic models, type coercion, email validation |
 
-## 📊 GitHub stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshh-29&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshh-29&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 ## 📫 Connect with me
 
