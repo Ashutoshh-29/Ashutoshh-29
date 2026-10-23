@@ -33,3 +33,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-yadav-b74a5a366)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshy0829@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ashutoshh--29-181717?style=for-the-badge&logo=github)](https://github.com/ashutoshh-29)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/ashutoshh_29)
